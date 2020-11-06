@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Instagram Clone App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Add</string>
+    <string name="title_heart">Heart</string>
+    <string name="title_user">Profile</string>
+
+    <string name="textView">Instagram</string>
+    <string name="textView1">Your Story</string>
+    <string name="textView2">Sachin Bhusal</string>
+    <string name="textView3"> Trent Boult </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="heart_fragment">Hello Hearty</string>
+</resources>
